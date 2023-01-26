@@ -1,0 +1,17 @@
+{
+    "name": "rizal/php-composer",
+    "description": "Belajar PHP Composer",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Rizal\\PhpComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RizalFIrdaus",
+            "email": "rizal.firdaus117@gmail.com"
+        }
+    ],
+    "require": {}
+}
