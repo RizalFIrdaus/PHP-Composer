@@ -13,5 +13,7 @@
             "email": "rizal.firdaus117@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "monolog/monolog" : "3.2.0"
+    }
 }
