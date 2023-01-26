@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "9915746a3c5c6c6092ea3561001c8824",
+    "content-hash": "161fdeeb591f7b0d94e3b0c9ae512d4d",
     "packages": [
         {
             "name": "monolog/monolog",
@@ -156,6 +156,39 @@
                 "source": "https://github.com/php-fig/log/tree/3.0.0"
             },
             "time": "2021-07-14T16:46:02+00:00"
+        },
+        {
+            "name": "rizalfirdaus/sayhello-library-php",
+            "version": "v1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/RizalFIrdaus/sayhello-library-php.git",
+                "reference": "e0abd5cb808b6bc2e9b36d77cfb139117ce06816"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/RizalFIrdaus/sayhello-library-php/zipball/e0abd5cb808b6bc2e9b36d77cfb139117ce06816",
+                "reference": "e0abd5cb808b6bc2e9b36d77cfb139117ce06816",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "rizalfirdaus\\": "src/"
+                }
+            },
+            "authors": [
+                {
+                    "name": "RizalFIrdaus",
+                    "email": "rizal.firdaus117@gmail.com"
+                }
+            ],
+            "description": "Library say hello",
+            "support": {
+                "source": "https://github.com/RizalFIrdaus/sayhello-library-php/tree/v1.0.0",
+                "issues": "https://github.com/RizalFIrdaus/sayhello-library-php/issues"
+            },
+            "time": "2023-01-26T09:53:02+00:00"
         }
     ],
     "packages-dev": [],

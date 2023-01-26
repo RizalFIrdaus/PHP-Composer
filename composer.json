@@ -7,6 +7,12 @@
             "Rizal\\": "src/"
         }
     },
+    "repositories": [
+        {
+            "type" : "vcs",
+            "url" : "https://github.com/RizalFIrdaus/sayhello-library-php"
+        }
+    ],
     "authors": [
         {
             "name": "RizalFIrdaus",
@@ -14,6 +20,7 @@
         }
     ],
     "require": {
-        "monolog/monolog" : "3.2.0"
+        "monolog/monolog" : "3.2.0",
+        "rizalfirdaus/sayhello-library-php" : "1.0.0"
     }
 }
